@@ -13,6 +13,7 @@ body {
 }
 
 p {
+  font-size: 2rem;
   color: rgb(236, 236, 236);
   text-align: center;
 }

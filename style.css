@@ -13,7 +13,8 @@ body {
 }
 
 p,a {
-  font-size: 5rem;
+  font-size: 3rem;
+  display: block;
   color: rgb(236, 236, 236);
   text-align: center;
 }
